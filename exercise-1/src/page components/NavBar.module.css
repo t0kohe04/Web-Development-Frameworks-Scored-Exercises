@@ -1,0 +1,23 @@
+.navbarBackground{
+    background-color: #00194c;
+}
+
+.container{
+    display: flex;   
+    color: white;
+    height: 65px;
+    width: 80%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.brand{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.containerItem{
+    margin-left: auto;
+    margin-right: auto;
+}

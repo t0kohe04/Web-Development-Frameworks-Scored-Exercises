@@ -1,0 +1,44 @@
+.container{
+    background-color: white;
+
+    width: 800px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    text-align: left;
+    
+}
+
+.image{
+    width: 760px;
+    height: auto;
+    object-fit: fill;
+
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.articleText{
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+.articleHeader{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.topic{
+    color: #00518d;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.topicAndTime{
+    font-size: 15px;
+    color: gray;
+
+    margin-top: 20px;
+}

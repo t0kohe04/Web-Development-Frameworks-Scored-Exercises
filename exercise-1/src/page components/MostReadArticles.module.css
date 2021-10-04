@@ -1,0 +1,30 @@
+.container{
+    color: black;
+    margin-bottom: 20px;
+
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: gray;
+}
+
+.articleNumber{
+    color: #4196a4;
+    float: left;
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 15px;
+}
+
+.articleText{
+    text-align: left;
+
+}
+
+.articleTopic{
+    font-weight: 700;
+}
+
+.articleHeader{
+    color: black;
+}

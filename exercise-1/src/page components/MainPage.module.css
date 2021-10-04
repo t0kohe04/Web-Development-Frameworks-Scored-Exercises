@@ -1,0 +1,22 @@
+.container{
+
+    
+
+    width: 800px;
+    float: left;
+
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.newsArticle{
+    background-color: 'white';
+
+    width: 90%;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 25px;
+}

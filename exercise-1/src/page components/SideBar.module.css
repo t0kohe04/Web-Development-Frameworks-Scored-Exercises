@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: auto;
+    float: left;
+    margin-right: 10%;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.mostReadArticles{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mostReadHeader{
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    text-align: left;
+    padding-bottom: 20px;
+    
+}
